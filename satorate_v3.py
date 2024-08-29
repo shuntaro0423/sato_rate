@@ -33,7 +33,7 @@ if exceed_year:
 
 plt.xlabel("年")
 plt.ylabel("佐藤姓の割合 (%)")
-plt.title("佐藤姓の割合の推移")
+plt.title("ONLY『佐藤』になるまで")
 plt.legend()
 plt.grid(True)
 
